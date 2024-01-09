@@ -59,7 +59,6 @@ Audio Engineer | Software Developer | Researcher
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=TtesseractT&show_icons=true&bg_color=141414&text_color=fff&title_color=00e6fe&icon_color=00e6fe"/>
  </p>
 
-## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=TtesseractT&color=blue)
 
 
