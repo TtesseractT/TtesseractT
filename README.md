@@ -1,7 +1,7 @@
 <img  width=400 src="https://github.com/umershaikh123/umershaikh123/assets/42178214/e3773556-1d65-459a-bf7e-67394f753783"  align="right">
 <p align="left">
  
-### Hello there 👋 I'm Sabian Hibbs
+### Hello there 👋 I'm Tess
  
 Audio Engineer | Software Developer | Researcher
 
