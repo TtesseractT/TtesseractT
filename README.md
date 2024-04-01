@@ -6,11 +6,6 @@
 Audio Engineer | Software Developer | Researcher
 
 
-- 🌱 Currently researching language neural networks
- 
-- 👨‍💻 My goal is to become a researcher in DSP applications  
- 
-- ⚡ Fun fact: I love connecting with other passionate Developers
  
 
 
